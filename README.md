@@ -1,13 +1,15 @@
 # YouTube-engagement-analyzer
 Deep-dive into 10,000+ rows of my YouTube watch history (Mar–Nov 2024). Used YouTube API, Selenium, and BeautifulSoup to extract, clean, and analyze viewing data—uncovering patterns in binge sessions, content themes, and watch-time habits. A showcase of EDA and data storytelling skills.
 
-What did I do?
+What did I do?<br>
+
 ✅ Extracted a dataset of 10,000+ rows and 9 columns using:<br>
 YouTube API to retrieve video IDs<br>
 Web scraping (Selenium & BeautifulSoup) to extract video titles<br>
 
  ✅ Cleaned and preprocessed the data—handling missing values, treating outliers, and standardizing columns<br>
  ✅ Analyzed key consumption patterns, including:<br>
+ 
 Time of Day Trends – When am I watching the most?<br>
 Long-Form vs. Shorts – Do I prefer quick clips or deep dives?<br>
 Weekday vs. Weekend Viewing – Do weekends mean more binge-watching?<br>
